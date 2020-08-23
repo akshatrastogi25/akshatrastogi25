@@ -3,10 +3,13 @@
 ![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)
 <img src="https://github-readme-stats.vercel.app/api?username=akshatrastogi25&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931&count_private=true"/>
 
+
+<!--
+https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
+-->
+
 ![](https://komarev.com/ghpvc/?username=akshatrastogi25&color=grey)
 
-![](https://i.ibb.co/s5KM54V/Untitled-design-1.png)
-<!--
 **akshatrastogi25/akshatrastogi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
