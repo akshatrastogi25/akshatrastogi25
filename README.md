@@ -6,7 +6,7 @@
 ## Loading......... Still Learning!!!
 
 <img src="https://github-readme-stats.vercel.app/api?username=akshatrastogi25&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatrastogi25&&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Love to connect with different people!  Kudos!!
