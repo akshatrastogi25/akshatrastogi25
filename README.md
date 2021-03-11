@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=akshatrastogi25&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931&count_private=true"/>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Love to connect with different people!  Kudos!!
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Love to connect with different people.  Kudos!!
 
 
 <p align="center"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
